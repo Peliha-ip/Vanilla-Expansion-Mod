@@ -1,0 +1,2 @@
+# Vanilla-Expansion-Mod
+Here's the mod that compiles all of my mods and combines them into one. Can make interactions that wouldn't be possible with them on their own.
