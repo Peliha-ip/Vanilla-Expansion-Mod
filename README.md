@@ -12,6 +12,7 @@ This mod is a bundle of:
 
 Mobs:
 - Paleo-rascal (TC + JP)
+- Paleo-chiller (TCA + JP)
 
 Blocks:
 - Extinct animal reviver
@@ -34,4 +35,5 @@ Features:
 - Tuff golems (TC) can now wear Mesozoic cloaks (JP).
 
 Advancements:
-- Cutthroat Carnival (Enter a pirate carnival)
+- Cutthroat Carnival (Enter a pirate carnival) (SR + TC)
+- DJ Chill Bill (Use the iceologer staff near a speaker block) (TCA + PC)
