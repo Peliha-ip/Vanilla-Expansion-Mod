@@ -37,3 +37,5 @@ Features:
 Advancements:
 - Cutthroat Carnival (Enter a pirate carnival) (SR + TC)
 - DJ Chill Bill (Use the iceologer staff near a speaker block) (TCA + PC)
+- The Lion Sleeps Tonight (Bring a lion to the storybook dimension) (TC + TCA)
+- Wimoweh (Bring a hippopotamus and a dog to the storybook dimension) (BB + TC + TCA)
