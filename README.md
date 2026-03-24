@@ -33,9 +33,14 @@ Features:
 - All the revivers from the individual mods have been compacted into one reviver for all.
 - Eating a bowl of beans (TCA) or a bowl of chili (TCA) now grants the player the stinky effect (BB).
 - Tuff golems (TC) can now wear Mesozoic cloaks (JP).
+- Deinonychus (JP) also kicks starballoons (TCA). Unlike with players or tramplers (JP), they launch starballoons quite far. The renamed starballoon with either "Rosalina" or "Luma" kicked by a Deinonychus renamed with either "Cynthia" or "Garchomp" can turn into the fastest mob in Minecraft.
+- Deinonychus (JP) will also launch anything that has star dust (TCA) in its inventory.
 
 Advancements:
 - Cutthroat Carnival (Enter a pirate carnival) (SR + TC)
 - DJ Chill Bill (Use the iceologer staff near a speaker block) (TCA + PC)
 - The Lion Sleeps Tonight (Bring a lion to the storybook dimension) (TC + TCA)
 - Wimoweh (Bring a hippopotamus and a dog to the storybook dimension) (BB + TC + TCA)
+- Look At Those Bangs (Have a Deinonychus renamed with either "Cynthia" or "Garchomp" meet a starballoon renamed with either "Rosalina" or "Luma") (JP + TCA)
+- Super Dinosaur Galaxyyyyy!!!! (Get kicked by a Deinonychus while holding star dust) (JP + TCA)
+- Fountain Dome (Bring a starballoon renamed with either "Rosalina" or "Luma" to a spa) (SR + TCA)
