@@ -17,6 +17,9 @@ Mobs:
 Blocks:
 - Extinct animal reviver
 
+Items:
+- Mesozoic pillow (TCA + JP)
+
 Structures:
 - Pirate carnival (SR + TC)
 
