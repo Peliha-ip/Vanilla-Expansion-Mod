@@ -48,4 +48,4 @@ Advancements:
 - Look At Those Bangs (Have a Deinonychus renamed with either "Cynthia" or "Garchomp" meet a starballoon renamed with either "Rosalina" or "Luma") (JP + TCA)
 - Super Dinosaur Galaxyyyyy!!!! (Get kicked by a Deinonychus while holding star dust) (JP + TCA)
 - Fountain Dome (Bring a starballoon renamed with either "Rosalina" or "Luma" to a spa) (SR + TCA)
-- Bombastic Pinchers (Make a crab, an allay, a paleo-allay, a parrot, and a bombast dance together) (SR + TC + JP)
+- Bombastic Moves (Make a crab, an allay, a paleo-allay, a parrot, and a bombast dance together) (SR + TC + JP)
