@@ -44,6 +44,7 @@ Features:
 - Deinonychus (JP) will also launch anything that has star dust (TCA) or the star charm (TCA) in its inventory.
 - All husks and eggs from extinct animals can be obtained from the wishing well (SR).
 - Pirate carnivals (SR + TC) get one exclusive trick mob, the ambiguous. The ambiguous wears its name very well, it resembles one sea creature riding another sea creature. But which one is the real head, the mount or the passenger, we'll never know. Renaming an ambiguous "Galymph" changes its texture to match the character from My Singing Monsters.
+- Starballoons (TCA) can now spawn near circuses (TC).
 
 Advancements:
 - Cutthroat Carnival (Enter a pirate carnival) (SR + TC)
