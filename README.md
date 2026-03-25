@@ -22,7 +22,7 @@ Items:
 - Mesozoic pillow (TCA + JP)
 - Paleo-rascal spawn egg (TC + JP)
 - Paleo-chiller spawn egg (TCA + JP)
-- Ambiguous (SR + TC)
+- Ambiguous spawn egg (SR + TC)
 
 Structures:
 - Pirate carnival (SR + TC)
