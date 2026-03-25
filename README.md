@@ -36,8 +36,9 @@ Features:
 - All the revivers from the individual mods have been compacted into one reviver for all.
 - Eating a bowl of beans (TCA) or a bowl of chili (TCA) now has an 80% to grant the player the stinky effect (BB).
 - Tuff golems (TC) can now wear Mesozoic cloaks (JP).
-- Deinonychus (JP) also kicks starballoons (TCA). Unlike with players or tramplers (JP), they launch starballoons quite far. The renamed starballoon with either "Rosalina" or "Luma" kicked by a Deinonychus renamed with either "Cynthia" or "Garchomp", can turn into the fastest mob in Minecraft.
+- Deinonychus (JP) also kicks starballoons (TCA). Unlike with players or tramplers (JP), they launch starballoons quite far. The renamed starballoon with either "Rosalina" or "Luma", kicked by a Deinonychus renamed with either "Cynthia" or "Garchomp", can turn into the fastest mob in Minecraft.
 - Deinonychus (JP) will also launch anything that has star dust (TCA) or the star charm (TCA) in its inventory.
+- All husks and eggs from extinct animals can be obtained from the wishing well (SR).
 
 Advancements:
 - Cutthroat Carnival (Enter a pirate carnival) (SR + TC)
