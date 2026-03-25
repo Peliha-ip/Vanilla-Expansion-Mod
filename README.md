@@ -55,4 +55,4 @@ Advancements:
 - Fountain Dome (Bring a starballoon renamed with either "Rosalina" or "Luma" to a spa) (SR + TCA)
 - Bombastic Moves (Make a crab, an allay, a paleo-allay, a parrot, and a bombast dance together) (SR + TC + JP)
 - Scratch, The First Abstraction (Bring a dog next to an abstract) (BB + TC)
-- Lunaaa, Lunaaa, Lunaaa, Lunaaa (Encounter an ambiguous)
+- Lunaaa, Lunaaa, Lunaaa, Lunaaa (Encounter an ambiguous) (SR + TC)
