@@ -46,7 +46,7 @@ Advancements:
 - The Lion Sleeps Tonight (Bring a lion to the storybook dimension) (TC + TCA)
 - Wimoweh (Bring a hippopotamus and a dog to the storybook dimension) (BB + TC + TCA)
 - Look At Those Bangs (Have a Deinonychus renamed with either "Cynthia" or "Garchomp" meet a starballoon renamed with either "Rosalina" or "Luma") (JP + TCA)
-- Super Dinosaur Galaxyyyyy!!!! (Get kicked by a Deinonychus while holding star dust) (JP + TCA)
+- Super Dinosaur Galaxyyyyy!!!! (Get kicked by a Deinonychus while holding star dust or a star charm) (JP + TCA)
 - Fountain Dome (Bring a starballoon renamed with either "Rosalina" or "Luma" to a spa) (SR + TCA)
 - Bombastic Moves (Make a crab, an allay, a paleo-allay, a parrot, and a bombast dance together) (SR + TC + JP)
 - Scratch, The First Abstraction (Bring a dog to a circus) (BB + TC)
